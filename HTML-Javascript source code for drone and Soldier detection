@@ -407,7 +407,7 @@ position: relative;
 
 
  .classifyOnClick1 p {
- transform: rotateY(180deg);
+
 position: fixed;
   padding: 5px;
 
